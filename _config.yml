@@ -25,23 +25,25 @@ author:
   # Biographic information
   avatar           : "web_3877.jpg"
   name             : "Daniel J Phillips"  
-  bio              : "Statistical Modeller"
+  bio              : "Statistical Modeller,
+                      Oxford Vaccine Group,
+                      University of Oxford"
   location         : "Oxford Vaccine Group"
   employer         : "University of Oxford"
   uri              : # URL
-  email            : "daniel dot phillips at paediatrics.ox.ac.uk" 
+  email            : "daniel.phillips@paediatrics.ox.ac.uk" 
 
   # Academic websites
-  academia         : "https://www.stats.ox.ac.uk/people/dan-phillips" # URL
+  academia         : # "https://www.stats.ox.ac.uk/people/dan-phillips" URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=sbzGol8AAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-0686-5091"
+  orcid            : # "https://orcid.org/0000-0003-0686-5091"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Daniel-Phillips-27"
+  researchgate     : # "https://www.researchgate.net/profile/Daniel-Phillips-27"
   scopus           : # URL
   zotero           : # URL
 
@@ -65,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://uk.linkedin.com/in/danphillips162" # Username
+  linkedin         : # "https://uk.linkedin.com/in/danphillips162" Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

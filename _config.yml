@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "web_3877_cropped.jpg"
   name             : "Daniel J Phillips"  
-  bio              : "Statistical Modeller,
-                      Oxford Vaccine Group,
+  bio              : "Statistical Modeller\
+                      Oxford Vaccine Group\
                       University of Oxford"
-  location         : "Oxford Vaccine Group"
-  employer         : "University of Oxford"
+  location         : #"Oxford Vaccine Group"
+  employer         : #"University of Oxford"
   uri              : # URL
   email            : "daniel.phillips@paediatrics.ox.ac.uk" 
 

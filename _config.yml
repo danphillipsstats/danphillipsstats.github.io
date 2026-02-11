@@ -23,7 +23,7 @@ repository               : "danphillipsstats/danphillipsstats.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "web_3877.jpg"
+  avatar           : "web_3877_cropped.jpg"
   name             : "Daniel J Phillips"  
   bio              : "Statistical Modeller,
                       Oxford Vaccine Group,

@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 \
-I am a *Statistical Modeller* at the *Oxford Vaccine Group, Department of Paediatrics, University of Oxford*. 
+I am a Statistical Modeller at the Oxford Vaccine Group, Department of Paediatrics, University of Oxford. 
 
-My research focuses on estimating **correlates of protection**, i.e. the relationship between immune marker levels and protection against infection after vaccination. I am developing approaches using **joint models for longitudinal and time-to-event data** to estimate correlates of protection. 
+My research focuses on estimating **correlates of protection**, i.e. the relationship between immune marker levels and protection against infection after vaccination. I am developing approaches using **joint models for longitudinal and time-to-event data** to estimate correlates of protection. \
 I am involved in projects estimating correlates of protection for COVID-19, typhoid fever, paratyphoid, and (non-typhoidal) salmonella.
 
-I submitted my DPhil at the Department of Statistics, University of Oxford in January 2026. I was supervised by David Steinsaltz and Maria Christodoulou.
+I submitted my DPhil at the Department of Statistics, University of Oxford in January 2026, supervised by David Steinsaltz and Maria Christodoulou.
 
 #### Research Interests
  - Joint models for longitudinal and time-to-event data

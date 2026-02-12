@@ -1,13 +1,14 @@
 ---
-layout: archive
+permalink: /
 title: "Publications"
-permalink: /publications/
 author_profile: true
+redirect_from: 
+  - /papers/
+  - /publications.html
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+
+You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
  - Implementation and adherence to regular asymptomatic testing in a COVID-19 vaccine trial
    LR Williams et al. 

@@ -1,0 +1,20 @@
+ - id: williams2024implementation
+   title: "Implementation and adherence to regular asymptomatic testing in a COVID-19 vaccine trial"
+   authors: "LR Williams et al."
+   venue: "Vaccine"
+   year: 2024
+   url: "https://www.sciencedirect.com/science/article/pii/S0264410X24008302"
+   
+- id: drury2024multi
+  title: "Multi-omics analysis reveals COVID-19 vaccine induced attenuation of inflammatory responses during breakthrough disease"
+  authors: "RE Drury et al."
+  venue: "Nature Communications"
+  year: 2024
+  url: "https://www.nature.com/articles/s41467-024-47463-6"
+
+- id: phillips2024improved
+  title: "Improved estimates of COVID-19 correlates of protection, antibody decay and vaccine efficacy waning: a joint modelling approach"
+  authors: "DJ Phillips, MD Christodoulou, S Feng, AJ Pollard, M Voysey, D Steinsaltz"
+  venue: "Preprint"
+  year: 2024
+  url: "https://www.medrxiv.org/content/10.1101/2024.07.02.24309776v1"

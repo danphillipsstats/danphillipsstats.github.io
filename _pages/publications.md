@@ -11,6 +11,9 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
 {% endfor %}
 
 <!---
+Note that the format is defined by _includes/pub_entry.html
+And the list of publications is given in _data/publications.yml
+
  - Implementation and adherence to regular asymptomatic testing in a COVID-19 vaccine trial \
    LR Williams et al. \
    *Vaccine* (2024)
@@ -43,6 +46,6 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
    *The Lancet* (2021)
  - Safety and immunogenicity of ChAdOx1 nCoV-19 vaccine administered in a prime-boost regimen in young and old adults (COV002): a single-blind, randomised, controlled, phase 2/3 trial \
    MN Ramasamy et al. \
-   *The Lancet* (2021)
+   *The Lancet* (2020)
 -->
 

@@ -1,15 +1,17 @@
 ---
-permalink: /publications/
+layout: page
 title: "Publications"
-author_profile: true
-redirect_from: 
-  - /papers/
-  - /publications.html
+permalink: /publications/
 ---
 
+You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 
-You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% assign pubs = site.data.publications | sort: "date" | reverse %}
+{% for p in pubs %}
+  {% include pub_entry.html pub=p %}
+{% endfor %}
 
+<!---
  - Implementation and adherence to regular asymptomatic testing in a COVID-19 vaccine trial \
    LR Williams et al. \
    *Vaccine* (2024)
@@ -43,5 +45,5 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
  - Safety and immunogenicity of ChAdOx1 nCoV-19 vaccine administered in a prime-boost regimen in young and old adults (COV002): a single-blind, randomised, controlled, phase 2/3 trial \
    MN Ramasamy et al. \
    *The Lancet* (2021)
-
+-->
 

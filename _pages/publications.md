@@ -6,8 +6,7 @@ permalink: /publications/
 
 You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 
-{% assign pubs = site.data.publications | sort: "date" | reverse %}
-{% for p in pubs %}
+{% for p in site.data.publications %}
   {% include pub_entry.html pub=p %}
 {% endfor %}
 

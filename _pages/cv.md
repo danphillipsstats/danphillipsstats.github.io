@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* DPhil in Statistics, University of Oxford, 2026 (submitted)
+* DPhil in Statistics, University of Oxford, 2026 (submitted).
+  Supervised by David Steinsaltz and Maria Christodoulou.
 * MMath in Mathematics and Statistics, University of Oxford, 2020
 
 Work experience

@@ -1,10 +1,10 @@
- - id: williams2024implementation
-   title: "Implementation and adherence to regular asymptomatic testing in a COVID-19 vaccine trial"
-   authors: "LR Williams et al."
-   venue: "Vaccine"
-   year: 2024
-   url: "https://www.sciencedirect.com/science/article/pii/S0264410X24008302"
-   
+- id: williams2024implementation
+  title: "Implementation and adherence to regular asymptomatic testing in a COVID-19 vaccine trial"
+  authors: "LR Williams et al."
+  venue: "Vaccine"
+  year: 2024
+  url: "https://www.sciencedirect.com/science/article/pii/S0264410X24008302"
+  
 - id: drury2024multi
   title: "Multi-omics analysis reveals COVID-19 vaccine induced attenuation of inflammatory responses during breakthrough disease"
   authors: "RE Drury et al."

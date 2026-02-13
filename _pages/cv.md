@@ -16,13 +16,14 @@ Education
 
 Work experience
 ======
-* Jan-Apr 2025: Statistical Intern
-  * Oxford University Statistical Consulting
+* Jan 2026 - Current | Statistical Modeller | Oxford Vaccine Group, University of Oxford
+  * Estimating correlates of protection for typhoid, paratyphoid and non-typhoidal salmonella <br>
+ 
+* Jan-Apr 2025 | Statistical Intern | Oxford University Statistical Consulting
   * Statistical advice for clients, reports in Rmarkdown
-  * Trained staff in GitHub and developed plan to migrate unit's code to GitHub.
-
-* Aug 2020 - Sep 2021: Statistician
-  * Oxford Vaccine Group, University of Oxford
+  * Trained staff in GitHub and developed plan to migrate unit's code to GitHub. <br>
+    
+* Aug 2020 - Sep 2021 | Statistician | Oxford Vaccine Group, University of Oxford
   * Worked on COVID-19 vaccine trials
   
 Talks

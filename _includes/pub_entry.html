@@ -1,7 +1,7 @@
 <p class="pub-entry">
-  <strong>{{ include.pub.title }}</strong><br>
+  {{ include.pub.title }}<br>
   {{ include.pub.authors }}<br>
-  <em>{{ include.pub.venue }}</em> ({{ include.pub.date | date: "%Y" }})
+  <em>{{ include.pub.venue }}</em>{% if include.pub.year %} ({{ include.pub.year }}){% endif %}
   {% if include.pub.url %} — <a href="{{ include.pub.url }}">Link</a>{% endif %}
   {% if include.pub.pdf %} — <a href="{{ include.pub.pdf }}">PDF</a>{% endif %}
 </p>

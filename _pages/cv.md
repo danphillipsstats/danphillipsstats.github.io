@@ -25,12 +25,6 @@ Work experience
   * Oxford Vaccine Group, University of Oxford
   * Worked on COVID-19 vaccine trials
   
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks reversed %}

@@ -18,3 +18,54 @@
   venue: "Preprint"
   year: 2024
   url: "https://www.medrxiv.org/content/10.1101/2024.07.02.24309776v1"
+
+- id: clemens2024efficacy
+  title: "Efficacy of ChAdOx1 nCoV-19 (AZD1222) vaccine against SARS-CoV-2 lineages circulating in Brazil"
+  authors: "SAC Clemens et al."
+  venue: "Nature Communications"
+  year: 2021
+  url: "https://www.nature.com/articles/s41467-021-25982-w"
+
+- id: feng2021correlates
+  title: "Correlates of protection against symptomatic and asymptomatic SARS-CoV-2 infection"
+  authors: "S Feng et al."
+  venue: "Nature Medicine"
+  year: 2021
+  url: "https://www.nature.com/articles/s41591-021-01540-1"
+
+- id: voysey2021single
+  title: "Single-dose administration and the influence of the timing of the booster dose on immunogenicity and efficacy of ChAdOx1 nCoV-19 (AZD1222) vaccine: a pooled analysis of four randomised trials"
+  authors: "M Voysey et al."
+  venue: "The Lancet"
+  year: 2021
+  url: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00432-3/fulltext"
+  
+- id: ewer2021t
+  title: "T cell and antibody responses induced by a single dose of ChAdOx1 nCoV-19 (AZD1222) vaccine in a phase 1/2 clinical trial"
+  authors: "KJ Ewer et al."
+  venue: "Nature Medicine"
+  year: 2021
+  url: "https://www.nature.com/articles/s41591-020-01194-5"
+  
+- id: barrett2021phase
+  title: "Phase 1/2 trial of SARS-CoV-2 vaccine ChAdOx1 nCoV-19 with a booster dose induces multifunctional antibody responses"
+  authors: "JR Barrett et al."
+  venue: "Nature Medicine"
+  year: 2021
+  url: "https://www.nature.com/articles/s41591-020-01179-4"
+
+  
+- id: voysey2021safety
+  title: "Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK"
+  authors: "M Voysey et al."
+  venue: "The Lancet"
+  year: 2021
+  url: "https://www.thelancet.com/article/S0140-6736(20)32661-1/fulltext"
+
+  
+- id: ramasmy2020safety
+  title: "Safety and immunogenicity of ChAdOx1 nCoV-19 vaccine administered in a prime-boost regimen in young and old adults (COV002): a single-blind, randomised, controlled, phase 2/3 trial"
+  authors: "MN Ramasamy et al."
+  venue: "The Lancet"
+  year: 2020
+  url: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32466-1/fulltext"

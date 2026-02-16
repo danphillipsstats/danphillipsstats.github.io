@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 \
-I am a Postdoctoral Researcher at the Oxford Vaccine Group, Department of Paediatrics, University of Oxford. \ 
+I am a Postdoctoral Researcher at the Oxford Vaccine Group, Department of Paediatrics, University of Oxford. <br>
 I submitted my DPhil at the Department of Statistics, University of Oxford in January 2026.
 
-My research focuses on estimating **correlates of protection**, i.e. the relationship between immune marker levels and protection against infection after vaccination. I am developing approaches using **joint models for longitudinal and time-to-event data** to estimate correlates of protection. \
+My research focuses on estimating **correlates of protection**, i.e. the relationship between immune marker levels and protection against infection after vaccination. I am developing approaches using **joint models for longitudinal and time-to-event data** to estimate correlates of protection. <br>
 I am involved in projects estimating correlates of protection for COVID-19, typhoid fever, paratyphoid, and (non-typhoidal) salmonella.
 
 Please do get in touch if you'd like to chat!

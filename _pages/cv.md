@@ -26,7 +26,7 @@ Work experience
   * Trained staff in GitHub and developed plan to migrate unit's code to GitHub. <br>
     
 * Aug 2020 - Sep 2021, **Statistician**, *Oxford Vaccine Group, University of Oxford*
-  * Statistician on COVID-19 vaccine trials
+  * Statistician on COVID-19 vaccine trials, contributed to paper on COVID-19 correlates of protection
 
 <!---
 Talks

@@ -15,7 +15,7 @@ I am involved in projects estimating correlates of protection for COVID-19, typh
 
 I submitted my DPhil at the Department of Statistics, University of Oxford in January 2026.
 
-### Research Interests
+## Research Interests
  - Joint models for longitudinal and time-to-event data
  - Correlates of protection
  - Bayesian modelling

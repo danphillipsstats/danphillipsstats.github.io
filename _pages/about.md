@@ -16,8 +16,9 @@ I am involved in projects estimating correlates of protection for COVID-19, typh
 Please do get in touch if you'd like to chat!
 
 ## Research Interests
- - Joint models for longitudinal and time-to-event data
  - Correlates of protection
+ - Joint models for longitudinal and time-to-event data
  - Bayesian modelling
  - Multiple imputation
+ - Causal inference
  - Survival analysis
